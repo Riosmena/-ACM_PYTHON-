@@ -1,3 +1,7 @@
+print('''
+Gaddiel Lara Roldán
+''')
+
 '''
 Este programa sirve para generar referencias en formato APA
 El código principal abre un archivo en modo w+ que se usará para escribir las referencias en líneas, también contine 2 listas que se usan en varias funciones y ejecuta la primera función.
